@@ -11,7 +11,7 @@
 # Paths.
 
 result_dir = '/storage/results'
-data_dir = '/datasets'
+data_dir = '/storage/datasets'
 cache_dir = '/storage/stylegan-art/cache'
 
 #----------------------------------------------------------------------------
