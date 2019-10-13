@@ -10,8 +10,8 @@
 #----------------------------------------------------------------------------
 # Paths.
 
-result_dir = 'results'
-data_dir = 'datasets'
-cache_dir = 'cache'
+result_dir = '/storage/results'
+data_dir = '/datasets'
+cache_dir = '/storage/stylegan-art/cache'
 
 #----------------------------------------------------------------------------
